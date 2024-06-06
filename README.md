@@ -1,8 +1,8 @@
 # Documentation
 
-Project Catalyst Proof of Achievements.
+Project Catalyst Fund 11 Proof of Achievements.
 
-## POA1
+## Milestone 1
 
 - Sitemap ([PDF](POA-1/POA1-Sitemap.pdf))
 - Workshop Drafts ([PDF](POA-1/POA1-Workshops.pdf))
