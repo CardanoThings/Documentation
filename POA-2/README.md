@@ -11,3 +11,5 @@ Pictures of all the needed hardware parts with information and sources have been
 ## Server Setup to run the workshop app
 
 A domain and server have been acquired and setup at [https://cardanothings.io](https://cardanothings.io)
+
+*Submitted December 28th 2025*
