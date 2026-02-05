@@ -40,9 +40,7 @@ While we can't cover everything, we hope to inspire users to take this as the st
 ### Teach Cardano in the process
 
 - We introduce users to the Cardano ecosystem, its wallets, libraries, APIs or blockchain explorers
-
 - The user learns about Cardano in general, how to read, build or submit transactions and how to build their own APIs for minting NFTs or putting data on chain.
-
 - While we aimed to only use free services throughout the workshops to keep initial  costs and the general barrier to entry low for all users, we are introducing the users to various paid services on Cardano from NMKR over Blockfrost, Maestro, TapTools, jpgStore and others - so when they finally build something for production, they already know where to go.
 
 ## Key achievements (in particular around collaboration and engagement)
@@ -67,11 +65,11 @@ While we can't cover everything, we hope to inspire users to take this as the st
 
 We will seek connections throughout the IoT community as well as the Cardano community to build and gather more examples of real world uses cases for physical integrations of Cardano with IoT tech like ESP microcontrollers. While the created workshop series is aimed at curious beginners, it is time to target a more advanced group of developers and so we will add building blocks and examples for PlatformIO and Rust integrations. All of this depends on further funding, so we will explore partnerships and revenue avenues to fund the further development of this platform.
 
-If the platform gains traction, we may to seek further funding for a series of Youtube videos and other features.
+If the platform gains traction, we may seek further funding for a series of Youtube videos and other platform features.
 
 ## Final thoughts/comments
 
-While this has been fun, it has also been frustrating to see how the Cardano ecosystem lacks very basic functionality such as scanable QR-Codes for transactions and so for now, our Workshop Five remains mostly theoretical. We hope the Cardano ecosystem will maybe take note of the presented use case, see the value and advance to a level where user-friendly payment links via QR-Codes can lead to very real, very physical use cases far beyond than just sending ADA around a blockchain.
+While this has been fun, it has also been frustrating to see how the Cardano ecosystem lacks very basic functionality such as scanable QR-Codes for transactions and so as of today, our Workshop Five remains mostly theoretical. We hope the Cardano ecosystem will maybe take note of the presented use case, see the value and advance to a level where user-friendly payment links via QR-Codes can lead to very real, very physical use cases far beyond than just sending ADA around a blockchain.
 
 ## Links to other relevant project sources or documents
 
