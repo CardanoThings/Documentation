@@ -76,6 +76,7 @@ While this has been fun, it has also been frustrating to see how the Cardano eco
 ## Links to other relevant project sources or documents
 
 - Main Project Page: [https://cardanothings.io](https://cardanothings.io)
+- CardanoThings on Github: [https://github.com/CardanoThings](https://github.com/CardanoThings)
 - CardanoThings on X: [https://x.com/CardanoThingsIO](https://x.com/CardanoThingsIO)
 - CardanoThings on BlueSky: [https://bsky.app/profile/cardanothings.io](https://bsky.app/profile/cardanothings.io)
 - CardanoThings on YouTube: [https://www.youtube.com/@CardanoThings](https://www.youtube.com/@CardanoThings)
