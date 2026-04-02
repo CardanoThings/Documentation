@@ -67,6 +67,10 @@ We will seek connections throughout the IoT community as well as the Cardano com
 
 If the platform gains traction, we may seek further funding for a series of Youtube videos and other platform features.
 
+### Update April 2026
+
+We have launched a new Microsite covering CIP-13 and wallet integration to explain web+cardano links and use cases: [https://cip13.cardanothings.io](https://cip13.cardanothings.io)
+
 ## Final thoughts/comments
 
 While this has been fun, it has also been frustrating to see how the Cardano ecosystem lacks very basic functionality such as scanable QR-Codes for transactions and so as of today, our Workshop Five remains mostly theoretical. We hope the Cardano ecosystem will maybe take note of the presented use case, see the value and advance to a level where user-friendly payment links via QR-Codes can lead to very real, very physical use cases far beyond than just sending ADA around a blockchain.
@@ -81,4 +85,4 @@ While this has been fun, it has also been frustrating to see how the Cardano eco
 
 ## Link to Close-out video
 
-tbc
+[Close-Out-Video on YouTube](https://www.youtube.com/watch?v=nq_9w3vUgbo)
