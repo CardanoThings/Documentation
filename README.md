@@ -13,3 +13,9 @@ Initial project planning and documentation including sitemap, workshop drafts, a
 MVP deployment of the workshop web app with all five workshop courses, hardware photos, and server setup. [View details →](POA-2/README.md)
 
 *Submitted December 28th 2025*
+
+## Milestone 3
+
+Final Close-Out-Report and Video. [View details →](POA-3/README.md)
+
+*Submitted April 2nd 2026*
